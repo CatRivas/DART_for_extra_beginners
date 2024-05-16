@@ -6,3 +6,4 @@
 
 * [Docs](https://dart.dev/language)
 
+* [Dart Crash Course by Net Ninja](https://www.youtube.com/watch?v=QGqMJzywasg&list=PL4cUxeGkcC9iVGY3ppchN9kIauln8IiEh)
