@@ -21,14 +21,9 @@ void main(){
 
 
 
-
-
-
-
-
 //creating a class that inheritance everything from his fathers or the super class
 class Pizza extends MenuItem{
-  //attribute 
+  //attribute toppings 
   List<String> toppings;
 
   //constructor
